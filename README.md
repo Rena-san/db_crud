@@ -12,7 +12,7 @@
 > PORT
 - Создать окружение:
 > python -m venv venv
-- Активироать оркужение:
+- Активировать окружение:
 > source venv/Scripts/activate
 - Установить зависимости:
 > pip install -r requirements.txt
